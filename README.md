@@ -1,46 +1,28 @@
-# Getting Started with Create React App
+#📝 Це детективна гра, де гравцю, у якості <spoiler>НЕОЧІКУВАНО</spoiler> детектива, потрібно буде вирішити справу про вбивство.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📏 Коротко про проект. 
+У детектива (себто тебе) є папка з матеріалами справи. Глобально вони поділені на 4 категорії: Жертва, Підозрюванні, Показання підозрюваних, Докази. У кожній такій категорії є по три файли. Екран ПК виконує роль інтерактивної дошки (ТАК-ТАК, як у крутецьких детективах, які ми дивились по телевізору). Всі ці файли можна тягати по дошці як тільки душі заманеться. Додатково на цю дошку також можна створювати нотатки та записувати свої думки та дрібні деталі, які, як ти знаєш, грають вирішальну роль в розкритті справи.
 
-## Available Scripts
+❔ Вивчивши всі документи потрібно пройти невеликий квіз, щоб зрозуміти, чи правильно ти розкрив справу. Також в грі є три підказки.
 
-In the project directory, you can run:
+1. Прочитайте матеріал справи
 
-### `npm start`
+Почніть своє розслідування з читання ВСІХ газетних вирізок, поліцейських документів, фотографій, доказів та інших предметів у справі. Дізнаючись про місце злочину, підозрюваних, свідків та інші деталі розслідування, шукайте інформацію чи докази, які допоможуть вам розкрити справу.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Так само, як справжній детектив, ніхто не скаже вам, де відповідь.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Перевірте свою теорію в "Я знаю, хто вбив!"
 
-### `npm test`
+Коли ви вважаєте, що знайшли потрібні вам докази, відвідайте "Я знаю, хто вбив!" і пройти тест.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Отримайте підказки, якщо вони вам потрібні
 
-### `npm run build`
+Не хвилюйтеся, якщо ваша теорія невірна, адже це нелегко. Якщо ваша відповідь неправильна, ви можете або повернутися до матеріалів справи та пошукати додаткові підказки, або отримати підказки через «Я хочу підказку».
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. Грійтеся у своїй славі, детектив
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Пройшовши тест «Я знаю, хто вбив!», ви розкриєте справу і посадите вбивцю за ґрати.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. Не зупиняйтеся на досягнутому
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Якщо вам було цікаво бути детективом, будь ласка, поділіться своїм досвідом у соціальних мережах, щоб інші також могли трохи повеселитися в ролі детектива.
