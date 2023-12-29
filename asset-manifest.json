@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/unsolved-case/static/css/main.cec1f955.css",
+    "main.js": "/unsolved-case/static/js/main.5a32e0d5.js",
+    "static/media/home-bg.jpg": "/unsolved-case/static/media/home-bg.0e2826aff7913b03db62.jpg",
+    "index.html": "/unsolved-case/index.html",
+    "main.cec1f955.css.map": "/unsolved-case/static/css/main.cec1f955.css.map",
+    "main.5a32e0d5.js.map": "/unsolved-case/static/js/main.5a32e0d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec1f955.css",
+    "static/js/main.5a32e0d5.js"
+  ]
+}
